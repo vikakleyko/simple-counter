@@ -1,8 +1,17 @@
+
+## Description
+
+A simple counter where user can increment or decrement current number on entered value. Application created using react redux.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install react-redux`
+
+Runs to install react redux
 
 ### `npm start`
 
