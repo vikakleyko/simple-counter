@@ -1,0 +1,36 @@
+.App {
+    background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+    min-height: 100vh;
+    padding: 60px;
+}
+
+h2{
+    display: inline-flex;
+}
+.counter{
+    min-height: 300px;
+    background-image: linear-gradient(to top, #a3bded 0%, #6991c7 100%);
+    padding: 40px;
+    border-radius: 30px;
+    box-shadow: 0 5px 20px rgb(71, 71, 71);
+}
+form, h1, .increment, .decrement{
+    margin: 20px;
+}
+input{
+    margin: 10px;
+      padding: 4px;
+      border: none;
+      border-radius: 6px;
+      font-size: 16px;
+      width: 80px;
+  }
+  button{
+    padding: 5px;
+      border: none;
+      border-radius: 6px;
+      background: lightblue;
+      width: 90px;
+      margin: 0 10px;
+      font-size: 16px;
+  }
